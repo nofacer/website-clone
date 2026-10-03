@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# website-clone: generated mirror
+/output/
+/.ruff_cache/
+/.pytest_cache/
